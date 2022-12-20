@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <time>
+#include <time.h>
 
 /**
  * main - program that generates random valid
@@ -29,6 +29,5 @@ int main(void)
 			break;
 		}
 	}
-
 	return (0);
 }
